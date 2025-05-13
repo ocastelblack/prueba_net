@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Z+MQHJjRZO2X25hVg/+0FORcqScGIROVdvdTuFB28KQ=",
+  "Source": "CatFactGiphyAPI",
+  "BasePath": "_content/CatFactGiphyAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
