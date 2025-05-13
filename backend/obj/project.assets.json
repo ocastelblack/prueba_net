@@ -1038,11 +1038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\proyectos\\net_consumir_api\\CatFactGiphyAPI\\CatFactGiphyAPI.csproj",
+      "projectUniqueName": "D:\\proyectos\\prueba_net\\backend\\CatFactGiphyAPI.csproj",
       "projectName": "CatFactGiphyAPI",
-      "projectPath": "D:\\proyectos\\net_consumir_api\\CatFactGiphyAPI\\CatFactGiphyAPI.csproj",
+      "projectPath": "D:\\proyectos\\prueba_net\\backend\\CatFactGiphyAPI.csproj",
       "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-      "outputPath": "D:\\proyectos\\net_consumir_api\\CatFactGiphyAPI\\obj\\",
+      "outputPath": "D:\\proyectos\\prueba_net\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

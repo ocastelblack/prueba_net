@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CatFactGiphyAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14882f3da5297a1e0911eb67851e0e4d99a6b52c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CatFactGiphyAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CatFactGiphyAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

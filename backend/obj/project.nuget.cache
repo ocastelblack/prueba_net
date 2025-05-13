@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yw/JWkE3IPc=",
+  "dgSpecHash": "OONeHqn7FoU=",
   "success": true,
-  "projectFilePath": "D:\\proyectos\\net_consumir_api\\CatFactGiphyAPI\\CatFactGiphyAPI.csproj",
+  "projectFilePath": "D:\\proyectos\\prueba_net\\backend\\CatFactGiphyAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oscar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
     "C:\\Users\\oscar\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.4\\microsoft.entityframeworkcore.9.0.4.nupkg.sha512",
